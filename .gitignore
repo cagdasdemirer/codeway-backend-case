@@ -1,3 +1,7 @@
+
+# Service Account - BigQuery Admin Role secret key
+sa_key.json
+
 # Logs
 logs
 *.log
